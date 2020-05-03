@@ -1,0 +1,2 @@
+
+The purpose of this program is to catch certain signals, and print out what signal it was and at what time it was recieved. If the program catches three same signals consecutively, it will exist, and print out the total number of signals that were recieved. 
